@@ -1,5 +1,5 @@
 ## Hi there! 👋 My name is Adam Heckler.
 
-Docs and quality at [Automattic](https://automattic.com/). Likes chocolate chip cookies, pickleball, and fast websites. ⚡️
+Half man, half breakfast burrito. Docs and quality at [Automattic](https://automattic.com/).
 
 Need to contact me? Go here for my email: https://www.adamheckler.com/
